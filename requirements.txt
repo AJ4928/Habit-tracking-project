@@ -1,0 +1,5 @@
+Python 3.8+
+
+SQLite3 (comes with Python)
+
+click for the CLI
