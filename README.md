@@ -74,7 +74,8 @@ pytest test_code.py
 
 ## Results and tests screenshots
 
-[[![img.png](img.png)](https://github.com/AJ4928/Habit-tracking-project/blob/main/Screenshot%202026-01-22%20150640.png)](https://github.com/AJ4928/Habit-tracking-project/blob/main/Screenshot%202026-01-22%20150640.png?raw=true)
+![Uploading image.png…]()
+
 
 ---
 ![img_1.png](img_1.png)
@@ -82,6 +83,7 @@ pytest test_code.py
 ---
 ![img_2.png](img_2.png)
 ---
+
 
 
 
