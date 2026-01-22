@@ -78,11 +78,12 @@ pytest test_code.py
 
 
 ---
-![image alt]()
+![image alt](https://github.com/AJ4928/Habit-tracking-project/blob/ceae0384e2a412bd89901e329baf99bf23c72961/Log%20in%20Screenshot.png)
 
 ---
 ![image alt]()
 ---
+
 
 
 
